@@ -9,6 +9,7 @@ public class GigDemo {
         System.out.println("test git");
         System.out.println("test git");
         System.out.println("test git");
+        System.out.println("第二个分支 commit --");
 
         //a
     }
