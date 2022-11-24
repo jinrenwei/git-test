@@ -9,6 +9,7 @@ public class GigDemo {
         System.out.println("test git");
         System.out.println("test git");
         System.out.println("test git");
+        System.out.println("master commit");
 
         //a
     }
